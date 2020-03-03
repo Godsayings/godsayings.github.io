@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>辣鸡天道的个人主页</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://see.skrshadow.cn/"/>
+  <updated>2020-03-03T08:22:46.112Z</updated>
+  <id>http://see.skrshadow.cn/</id>
+  
+  <author>
+    <name>Godsayings</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://see.skrshadow.cn/2020/03/03/hello-world/"/>
+    <id>http://see.skrshadow.cn/2020/03/03/hello-world/</id>
+    <published>2020-03-03T07:57:57.532Z</published>
+    <updated>2020-03-03T08:22:46.112Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="通往幻想的现实门扉"><a href="#通往幻想的现实门扉" class="headerlink" title="通往幻想的现实门扉"></a>通往幻想的现实门扉</h2><p>每个人都渴望拥有自己的一片天地，它既不现实，也不存在，但总是想让它存在在世界的某个小小角落。对我来说，这个网站就是一扇门，拉开门，那些异想天开又不切实际的幻想就在里面拥簇成一团。这就是我的网站，守护我幻想的门扉。</p><p>/<em>Author：Godsaying</em>/</p><p>/<em>date：2020.03.03.16.22</em>/</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;通往幻想的现实门扉&quot;&gt;&lt;a href=&quot;#通往幻想的现实门扉&quot; class=&quot;headerlink&quot; title=&quot;通往幻想的现实门扉&quot;&gt;&lt;/a&gt;通往幻想的现实门扉&lt;/h2&gt;&lt;p&gt;每个人都渴望拥有自己的一片天地，它既不现实，也不存在，但总是想让它存在在世界的某个小
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
